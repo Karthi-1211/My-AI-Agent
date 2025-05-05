@@ -59,8 +59,6 @@ Ensure you have the following installed on your system:
 
 ## 🛠️ Technologies Used
 - **Frontend:** React, Tailwind CSS
-- **Backend:** FastAPI, Python
-- **Database (if applicable):** Redis
 - **AI API:** Gemini API
 - **Browser Automation:** Selenium or Playwright
 
